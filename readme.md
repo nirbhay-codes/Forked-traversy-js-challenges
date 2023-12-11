@@ -1,5 +1,19 @@
 # Traversy JS Challenges: Data Structures & Algorithms
 
+## Progress
+
+### Completed
+
+- 01-basic-challenges-1\01-hello-world\hello-world.js
+- 01-basic-challenges-1\02-get-sum\get-sum.js
+- 01-basic-challenges-1\03-calculator\calculator.js
+
+### Revision
+
+---
+
+## Introduction
+
 This is the sandbox for my [70+ JS Challenges: Data Structures & Algorithms Course](https://www.traversymedia.com/javascript-challeges). Just about all of the concepts that are included, also exist in other languages. So, if you are not a JavaScript developer, you can still follow along and learn from this course/repo.
 
 This course/repo goes over everything from basic loop challenges, high order array methods, recursion, time & space complexity, data structures such as stacks, queues, linked lists, trees, graphs, and we touch on sorting algorithms like bubble sort, insertion and merge sort. You should already know the basics of JavaScript before doing any of the challenges or taking the course.
