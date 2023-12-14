@@ -11,6 +11,7 @@ function findMaxNumber(arr) {
 
 // Solution 2
 function findMaxNumber(arr) {
+  // Note: Math.max doesn't take an array as it's argument, it takes multiple numbers as arguments.
   return Math.max(...arr);
 }
 
