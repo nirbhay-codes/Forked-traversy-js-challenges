@@ -7,8 +7,16 @@
 - 01-basic-challenges-1\01-hello-world\hello-world.js
 - 01-basic-challenges-1\02-get-sum\get-sum.js
 - 01-basic-challenges-1\03-calculator\calculator.js
+- 01-basic-challenges-1\04-count-occurrences\count-occurrences.js
+- 01-basic-challenges-1\05-find-max-number\find-max-number.js
+- 01-basic-challenges-1\06-title-case\title-case.js
+- 01-basic-challenges-1\07-reverse-string\reverse-string.js
+- 01-basic-challenges-1\08-palindrome\palindrome.js
+- 01-basic-challenges-1\09-count-vowels\count-vowels.js
 
 ### Revision
+
+- TBA
 
 ---
 
