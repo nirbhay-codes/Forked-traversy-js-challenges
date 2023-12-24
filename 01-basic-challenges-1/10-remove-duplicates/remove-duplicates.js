@@ -1,4 +1,5 @@
-/* function removeDuplicates(arr) {
+// Solution 1
+function removeDuplicates(arr) {
   let uniqueResult = [];
   for (let i = 0; i < arr.length; i++) {
     if (!uniqueResult.includes(arr[i])) {
@@ -6,9 +7,11 @@
     }
   }
   return uniqueResult;
-} */
+}
 
+// Solution 2
 function removeDuplicates(arr) {
+  console.log('sol 2');
   return Array.from(new Set(arr));
 }
 
