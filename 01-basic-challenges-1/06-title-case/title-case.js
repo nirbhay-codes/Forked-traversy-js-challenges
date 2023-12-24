@@ -1,5 +1,5 @@
-/* // Solution 1
-function titleCase(str) {
+// Solution 1
+/* function titleCase(str) {
   let words = str.toLowerCase().split(' ');
 
   for (let i = 0; i < words.length; i++) {

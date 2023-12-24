@@ -15,15 +15,13 @@
   return true;
 } */
 
-/* Solution 1:
---------------
-Regex explanation:
+// Solution 1:
+/* Regex explanation:
 /: Delimiters indicating the start and end of the regular expression.
 [^a-z0-9]: A character class denoted by square brackets. It means "any character that is not in the range a to z or 0 to 9."
 /: Delimiter indicating the end of the regular expression.
-g: Global flag, meaning it will match all occurrences in the provided text, not just the first one. 
+g: Global flag, meaning it will match all occurrences in the provided text, not just the first one. */
 
-*/
 /* function isPalindrome(str) {
   const formattedStr = str.toLowerCase().replace(/[^a-z0-9]/g, '');
   const reversedStr = formattedStr.split('').reverse().join('');

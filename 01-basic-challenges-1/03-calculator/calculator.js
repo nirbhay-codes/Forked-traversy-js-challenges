@@ -1,5 +1,5 @@
-/* // Solution 1
-function calculator(num1, num2, operator) {
+// Solution 1
+/* function calculator(num1, num2, operator) {
   let result;
   switch (operator) {
     case '+':
@@ -20,8 +20,8 @@ function calculator(num1, num2, operator) {
   return result;
 } */
 
-/* // Solution 2
-function calculator(num1, num2, operator) {
+// Solution 2
+/* function calculator(num1, num2, operator) {
   let result;
   if (operator === '+') {
     result = num1 + num2;
