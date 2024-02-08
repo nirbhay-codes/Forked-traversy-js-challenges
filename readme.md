@@ -14,6 +14,7 @@
 - 01-basic-challenges-1\08-palindrome\palindrome.js
 - 01-basic-challenges-1\09-count-vowels\count-vowels.js
 - 01-basic-challenges-1\10-remove-duplicates\remove-duplicates.js
+- 02-basic-challenges-2\01-fizzbuzz-array\fizzbuzz-array.js
 
 ### Revision
 
