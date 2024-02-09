@@ -4,6 +4,9 @@
 
 ### Completed
 
+<details>
+  <summary>Click For list</summary>
+
 - 01-basic-challenges-1\01-hello-world\hello-world.js
 - 01-basic-challenges-1\02-get-sum\get-sum.js
 - 01-basic-challenges-1\03-calculator\calculator.js
@@ -17,6 +20,8 @@
 - 02-basic-challenges-2\01-fizzbuzz-array\fizzbuzz-array.js
 - 02-basic-challenges-2\02-array-intersection
 - 02-basic-challenges-2\03-display-likes\display-likes.js
+
+</details>
 
 ### Revision
 
