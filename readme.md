@@ -20,6 +20,7 @@
 - 02-basic-challenges-2\01-fizzbuzz-array\fizzbuzz-array.js
 - 02-basic-challenges-2\02-array-intersection
 - 02-basic-challenges-2\03-display-likes\display-likes.js
+- 02-basic-challenges-2\04-find-missing-number\find-missing-number.js
 
 </details>
 
