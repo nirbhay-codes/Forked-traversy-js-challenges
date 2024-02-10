@@ -21,6 +21,7 @@
 - 02-basic-challenges-2\02-array-intersection
 - 02-basic-challenges-2\03-display-likes\display-likes.js
 - 02-basic-challenges-2\04-find-missing-number\find-missing-number.js
+- 02-basic-challenges-2\05-find-missing-letter\find-missing-letter.js
 
 </details>
 
