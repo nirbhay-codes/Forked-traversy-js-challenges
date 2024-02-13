@@ -30,8 +30,7 @@ g: Global flag, meaning it will match all occurrences in the provided text, not 
 
 // Solution 2
 function isPalindrome(str) {
-  const formattedStr = removeNonAlphaNumeric(str);
-  console.log('formattedStr:', formattedStr);
+  const formattedStr = removeNonAlphaNumeric(str.toLowerCase());
   const reverse = reverseString(formattedStr);
   return formattedStr === reverse;
 }

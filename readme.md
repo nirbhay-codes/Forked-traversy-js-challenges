@@ -23,6 +23,7 @@
 - 02-basic-challenges-2\04-find-missing-number\find-missing-number.js
 - 02-basic-challenges-2\05-find-missing-letter\find-missing-letter.js
 - 02-basic-challenges-2\06-are-all-chars-unique\are-all-chars-unique.js
+- 02-basic-challenges-2\07-first-non-repeating\first-non-repeating.js
 
 </details>
 
