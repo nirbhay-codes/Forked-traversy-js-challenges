@@ -25,6 +25,10 @@
 - 02-basic-challenges-2\06-are-all-chars-unique\are-all-chars-unique.js
 - 02-basic-challenges-2\07-first-non-repeating\first-non-repeating.js
 
+Section 07 - stack-queues-linked-lists
+
+* 07-stacks-queues-linked-lists\02-stack-implementation\stack.js
+
 </details>
 
 ### Revision
@@ -35,7 +39,7 @@
 
 ## Introduction
 
-This is the sandbox for my [70+ JS Challenges: Data Structures & Algorithms Course](https://www.traversymedia.com/javascript-challeges). Just about all of the concepts that are included, also exist in other languages. So, if you are not a JavaScript developer, you can still follow along and learn from this course/repo.
+This is the sandbox for my [70+ JS Challenges: Data Structures and Algorithms Course](https://www.traversymedia.com/javascript-challeges). Just about all of the concepts that are included, also exist in other languages. So, if you are not a JavaScript developer, you can still follow along and learn from this course/repo.
 
 This course/repo goes over everything from basic loop challenges, high order array methods, recursion, time & space complexity, data structures such as stacks, queues, linked lists, trees, graphs, and we touch on sorting algorithms like bubble sort, insertion and merge sort. You should already know the basics of JavaScript before doing any of the challenges or taking the course.
 
@@ -180,11 +184,11 @@ In this section, we will look at working with data structures such as `stacks`, 
 5. [What Is A Queue?](./07-stacks-queues-linked-lists/05-what-is-a-queue/readme.md)
 6. [Queue Implementation](./07-stacks-queues-linked-lists/06-queue-implementation/readme.md)
 7. [Reverse String With Queue](./07-stacks-queues-linked-lists/07-reverse-string-queue/readme.md)
-8. [Palindrome With Queue & Stack](./07-stacks-queues-linked-lists/08-palindrome-queue-stack/readme.md)
+8. [Palindrome With Queue &amp; Stack](./07-stacks-queues-linked-lists/08-palindrome-queue-stack/readme.md)
 9. [What Is A Linked List?](./07-stacks-queues-linked-lists/09-what-is-a-linked-list/readme.md)
 10. [Linked List Implementation](./07-stacks-queues-linked-lists/10-linked-list-implementation/readme.md)
 11. [Reverse String With Linked List](./07-stacks-queues-linked-lists/11-reverse-string-linked-list/readme.md)
-12. [Fast & Slow Pointers](./07-stacks-queues-linked-lists/12-fast-slow-pointers/readme.md)
+12. [Fast &amp; Slow Pointers](./07-stacks-queues-linked-lists/12-fast-slow-pointers/readme.md)
 13. [Find Middle](./07-stacks-queues-linked-lists/13-find-middle/readme.md)
 14. [What Is A Doubly Linked List?](./07-stacks-queues-linked-lists/14-what-is-a-doubly-linked-list/readme.md)
 15. [Doubly Linked List Implementation](./07-stacks-queues-linked-lists/15-doubly-linked-list-implementation/readme.md)
@@ -204,7 +208,7 @@ In this section, we will look at `trees` and `graphs`. We will start with `binar
 8. [Binary Search Tree Implementation](./08-binary-trees-graphs/08-binary-search-tree-implementation/readme.md)
 9. [Validate BST](./08-binary-trees-graphs/09-validate-bst/readme.md)
 10. [What is a Graph?](./08-binary-trees-graphs/10-what-is-a-graph/readme.md)
-11. [Adjacency Matrix & Adjacency List](./08-binary-trees-graphs/11-adjacency-matrix-adjacency-list/readme.md)
+11. [Adjacency Matrix &amp; Adjacency List](./08-binary-trees-graphs/11-adjacency-matrix-adjacency-list/readme.md)
 12. [Graph Implementation](./08-binary-trees-graphs/12-graph-implementation/readme.md)
 13. [Graph Traversal](./08-binary-trees-graphs/13-graph-traversal/readme.md)
 14. [Graph Depth First Traversal](./08-binary-trees-graphs/14-graph-depth-first-traversal/readme.md)
