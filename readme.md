@@ -28,6 +28,7 @@
 Section 07 - stack-queues-linked-lists
 
 * 07-stacks-queues-linked-lists\02-stack-implementation\stack.js
+* 07-stacks-queues-linked-lists\06-queue-implementation\queue.js
 
 </details>
 
