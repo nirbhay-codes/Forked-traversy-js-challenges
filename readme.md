@@ -7,6 +7,8 @@
 <details>
   <summary>Click For list</summary>
 
+Basic challenges:
+
 - 01-basic-challenges-1\01-hello-world\hello-world.js
 - 01-basic-challenges-1\02-get-sum\get-sum.js
 - 01-basic-challenges-1\03-calculator\calculator.js
@@ -27,9 +29,13 @@
 
 Section 07 - stack-queues-linked-lists
 
-* 07-stacks-queues-linked-lists\02-stack-implementation\stack.js
-* 07-stacks-queues-linked-lists\06-queue-implementation\queue.js
-* 07-stacks-queues-linked-lists\10-linked-list-implementation\linked-list.js
+- 07-stacks-queues-linked-lists\02-stack-implementation\stack.js
+- 07-stacks-queues-linked-lists\06-queue-implementation\queue.js
+- 07-stacks-queues-linked-lists\10-linked-list-implementation\linked-list.js
+
+Section 08 - binary-tree-graphs
+
+- 08-binary-trees-graphs\02-tree-node-class\tree-node-class.js
 
 </details>
 
