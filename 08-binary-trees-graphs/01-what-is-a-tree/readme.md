@@ -38,12 +38,12 @@ The height of a node refers to the **number of edges along the longest path from
 
 The height of a tree is the same as the height of it's root node. This tree has a height of 4 since the longest path from the root is 4.
 
-## Bianary Tree
+## Binary Tree
 
-A `binary tree` is a special type of tree that has one root node and each node can have at most two child nodes, often referred to as the `left child` and the `right child` or just left and right.
+A `binary tree` is a special type of tree that has one root node and each node can have **at most** two child nodes, often referred to as the `left child` and the `right child` or just left and right.
 
 <img src="../../assets/images/binarytree.png" width="500" alt="" />
 
-The tree that we are looking at is considered a binary tree because it has one root node and each node has at most two child nodes. Node 4 would be the left child of node 2, and node 5 would be the right child of node 2. There is also a clear path between the root and any one node. Sometimes you'll see trees that are split up and there are 3 nodes off by themselves. Or you may see a tree where the nodes are jut connected in a cirlce and there is no clear root. Those are not binary trees.
+The tree that we are looking at is considered a binary tree because it has one root node and each node has at most two child nodes. Node 4 would be the left child of node 2, and node 5 would be the right child of node 2. There is also a *clear path* between the root and any one node. Sometimes you'll see trees that are split up and there are 3 nodes off by themselves. Or you may see a tree where the nodes are just connected in a cirlce and there is no clear root. Those are not binary trees.
 
 There are different types of binary trees and there is also something called a `binary search tree`, which we'll look into in a bit. For now, I want to create a `TreeNode` class that will allow us to construct nodes into a binary tree. We'll do that next.
