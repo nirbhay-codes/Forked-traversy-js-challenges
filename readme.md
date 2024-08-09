@@ -36,6 +36,7 @@ Section 07 - stack-queues-linked-lists
 Section 08 - binary-tree-graphs
 
 - 08-binary-trees-graphs\02-tree-node-class\tree-node-class.js
+- 08-binary-trees-graphs\08-binary-search-tree-implementation\binary-search-tree.js
 
 </details>
 
