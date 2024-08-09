@@ -113,10 +113,12 @@ class BinarySearchTree {
         while (tempNode.left !== null) {
           tempNode = tempNode.left;
         }
-        // Replace the current node with the successor value
+        // Replace the current node with the "successor" value
         node.value = tempNode.value;
-        // Remove the successor value from the right subtree
-        node.right = removeNode(node.right, tempNode.value);
+        // Remove the "successor" value from the right subtree: the above line uses the tempNode value to assign the node.value.
+        // We still need to remove this "successor" from the right subtree of the deleted node as this "successor" will now occupy the deleted node's place and should be removed from its original place (in the right subtree).
+        node.right = removeNode(node.right, tempNode.value); // here node.right is calling the right subtree of the deleted node.
+        // Although the value is updated, the right subtree is still pointing to previous right subree (with successor still in there). So when we pass "tempNode.value" we are basically passing the "successor" node value to be removed from this right subtree.
         return node;
       }
     };
